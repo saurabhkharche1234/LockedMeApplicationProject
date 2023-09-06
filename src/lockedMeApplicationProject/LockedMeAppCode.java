@@ -20,9 +20,9 @@ public class LockedMeAppCode {
 	public static void displayWelcomeMsg() {
 		String welcomeMsg = "-------<Welcome to LockMe App>-------\n"+"               -developed by *Saurabh Kharche*";
 		String functionsProvided = "This application provides below functionalities:\n" + 
-									"*Retrieve all file names in main folder\n"+
-									"*Add, delete or search file in main folder\n"+
-									"Note:Please insure the correct file name is provided for searching or deleting files.\n\n";
+									" *  Retrieve all file names in main folder\n"+
+									" *  Add, delete or search file in main folder\n"+
+									"[Note:Please insure the correct file name is provided for searching or deleting files.]\n\n";
 		System.out.println(welcomeMsg);
 		System.out.println(functionsProvided);
 	}
